@@ -71,7 +71,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/my-pic-for-lawyersagent-300x300-1400x1395.jpg",
+              "src": "@PROJECT_PATH@/assets/images/helping-hand-1400x714.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -366,7 +366,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hartford-financial-services-lettering-128x127.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-5-fixed-with-more-128x172.jpg",
               "width": 128,
               "active": true,
               "link": "",
