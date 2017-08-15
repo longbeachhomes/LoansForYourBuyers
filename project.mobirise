@@ -71,7 +71,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/helping-hand-1400x714.jpg",
+              "src": "@PROJECT_PATH@/assets/images/helping-hand-no-pic-1400x714.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -103,6 +103,9 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#90a878"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#efefef"
             }
           },
           "_anchor": "features2-7",
@@ -235,7 +238,7 @@
                   "active": true
                 }
               },
-              "authorName": "Benigno Q., Realtor",
+              "authorName": "Benigno Q., Realtor, ReMax",
               "authorBio": "User"
             }
           ],

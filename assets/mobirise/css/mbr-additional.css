@@ -414,6 +414,9 @@ h6,
 #features2-7 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #90a878;
 }
+#features2-7 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #efefef;
+}
 #form1-4 .form-control-label {
   color: #232323;
 }
