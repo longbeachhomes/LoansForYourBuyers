@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 8,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.1.6",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120.png",
     "noImageResize": "",
@@ -49,25 +49,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-0",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "20",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -111,27 +111,27 @@
           },
           "_anchor": "features2-7",
           "_params": {
-            "columnsColor": "#90a878",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#90a878",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -163,7 +163,7 @@
           },
           "title2": "Customized Pre-Approval",
           "subtitle2": "With Real Needs Analysis",
-          "caption2": "Hartford Financial offers many loan products, allowing me to find exactly the right program for your client. My team and I have experience helping borrowers in all types of situations: first-time home-buyers, repeat-buyers, refinancing home-owners, mobile-home buyers, transfers, relocations, and borrowers with less than perfect credit.",
+          "caption2": "Priority Mortgage offers many loan products, allowing me to find exactly the right program for your client. My team and I have experience helping borrowers in all types of situations: first-time home-buyers, repeat-buyers, refinancing home-owners, mobile-home buyers, transfers, relocations, and borrowers with less than perfect credit.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -249,22 +249,22 @@
           ],
           "_anchor": "testimonials2-2",
           "_params": {
-            "count": "1",
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "showTitle": false,
+            "showSubtitle": false,
             "showImages": false,
             "showName": true,
             "showBio": false,
+            "count": "1",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showSubtitle": false
+            "overlayOpacity": 0.2
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -279,13 +279,13 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a38f84",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#a38f84",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "overlayOpacity": 0.5,
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -309,19 +309,19 @@
           },
           "_anchor": "form1-4",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c0a375",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#c0a375",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "LET ME TELL YOU HOW I CAN HELP YOU!",
           "subtitle": "To know more about how I can help you with your clients simply enter your contact information and click on the \"Contact Me\" button below. <br>I will be notified and call you right back to answer your questions. No obligation whatsoever. Thank you!",
@@ -364,23 +364,23 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-5-fixed-with-more-128x172.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-for-footer-final-128x172.jpg",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "http://www.prioritymortgagefunding.com/cesarmarin/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -388,8 +388,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1551 N Tustin Ave Suite 430<br>\nSanta Ana CA 92705",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto: caesarmarin@gmail.com\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nPhone: <a href=\"tel:+1-714-610-6809\" target=\"_blank\">714.610.6809</a><br>\nFax: 714.844.9156",
+          "text1": "<strong>Address</strong><br>\n30012 Ivy Glenn Suite 180<br>\nLaguna Niguel CA 92677",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto: caesarmarin@gmail.com\" target=\"_blank\">caesarmarin@gmail.com</a><br>\nPhone: <a href=\"+1 714 610 6809\" target=\"_blank\">714.610.6809</a><br>E-Fax: 949.315.3074",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.realestateandtaxhelp.com/index.php/gravity-landing/how-much-mortgage-can-you-afford/\" target=\"_blank\">How much mortgage can your client afford?</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://longbeachhomes.github.io/BenefitsToRealtors/\" target=\"_blank\">Benefits To Realtors</a><a href=\"index.html\" target=\"_blank\"></a><a href=\"index.html\" target=\"_blank\"></a><a href=\"index.html\" target=\"_blank\"></a><a href=\"https://mobirise.com/mobirise-free-win.zip\" target=\"_blank\"></a><br>\n<a href=\"http://online.fliphtml5.com/enxn/mhcb/\" target=\"_blank\">What I can do for you</a><a href=\"index.html\" target=\"_blank\"></a><a href=\"index.html\" target=\"_blank\"></a><a href=\"https://mobirise.com/mobirise-free-mac.zip\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
         {
@@ -402,13 +402,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright © 2017 Cesar Marin BRE#01274794/NMLS#287752, All Rights Reserved.<br>Logo Equal Housing Opportunity Lender | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Privacy Policy</a> | <a href=\"https://raw.githubusercontent.com/longbeachhomes/sellyourhomeforfree/master/privacypolicyandtermsandconditions\" target=\"_blank\">Terms &amp; Conditions</a> | Powered by CMDesign<br>Not everyone is eligible for the programs, and some restrictions do apply. The information contained on this site is for informational purposes only and is not an advertisement for products. The views and opinions expressed herein are those of the respective author(s) and do not reflect the policy or position of Hartford Financial, its officers, parent, or affiliates.<br>"
         }
